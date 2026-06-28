@@ -9,7 +9,7 @@ export default function TimeDisplay({ timeDiff }: TimeDisplayProps) {
     <div className="flex flex-col items-center gap-8 md:gap-10 max-w-lg mx-auto w-full">
       {/* 主标题 */}
       <div className="text-center animate-fade-in">
-        <h1 className="text-4xl md:text-6xl font-light tracking-wider text-[hsl(15,15%,18%)] mb-3">
+        <h1 className="text-4xl md:text-6xl font-light tracking-wider text-[hsl(15,15%,18%)] mb-3" style={{ fontFamily: '"ZCOOL XiaoWei", "Noto Sans SC", serif' }}>
           纪念<span className="font-bold text-[hsl(8,55%,52%)]">荔枝</span>
         </h1>
         <p className="text-lg md:text-2xl text-[hsl(15,10%,48%)] font-light animate-fade-in-delay">

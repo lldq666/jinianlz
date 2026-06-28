@@ -158,3 +158,13 @@ MIT License
 ## 📧 联系方式
 
 如有问题或建议，欢迎通过 GitHub Issue 联系。
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=lldq666%2Fjinianlz&type=date&legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lldq666/jinianlz&type=date&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lldq666/jinianlz&type=date&legend=top-left" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lldq666/jinianlz&type=date&legend=top-left" />
+  </picture>
+</a>

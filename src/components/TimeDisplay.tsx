@@ -30,12 +30,6 @@ export default function TimeDisplay({ timeDiff }: TimeDisplayProps) {
         </div>
       </div>
 
-      {/* 底部信息 */}
-      <div className="text-center animate-fade-in-delay">
-        <p className="text-sm text-[hsl(15,10%,48%)]">
-          从 2026年6月27日 20:23 开始
-        </p>
-      </div>
     </div>
   );
 }

@@ -137,6 +137,8 @@ const timeDiff = useTimeCounter(startDate);
 
 ## 🚢 部署
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flldq666%2Fjinianlz)
+
 项目已配置 Vercel 自动部署，推送到 `main` 分支后自动构建部署。
 
 也可以手动部署到其他平台：

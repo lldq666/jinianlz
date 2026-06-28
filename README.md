@@ -31,7 +31,7 @@ npm run build
 
 ## 部署
 
-项目已配置Vercel部署，推送到GitHub仓库后会自动部署。
+项目已配置Vercel部署。
 
 ## 许可证
 
